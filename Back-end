@@ -1,0 +1,8 @@
+The backend of chat app is built using node.js and express.js providing restful api for the frontend to interact with.
+The backend is responsible for handling user authentication ,storing,retrieving chat messages,and managing user connections.
+keyfeatures:
+
+user Authentication
+Message storage
+real-time Messaging
+User Management
